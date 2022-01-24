@@ -1,19 +1,20 @@
 # Microspace Communications Corporation
 
-## Station Checks 2.0
+### Station Checks 2.0
 
 ---
 
-> Staton-Check-2.0 --------------------------------------------------------| Version: 2.0
+> Version: 2.0
 
 ---
 
 > Test Build Goals --------------------------------------------------------| Test
 
--  Optimize for phone usage
-   -  Tablet is slow/old
-   -  all operators have a mobil phone
-   -  easier to use on small screen and input data much faster with thumb
+`- Optimize for phone usage
+
+-  Tablet is slow/old
+-  all operators have a mobil phone
+-  easier to use on small screen and input data much faster with thumb
 -  SPA Application - React
    -  Greatly reduce load times
    -  Condense Tedious Menus
@@ -22,7 +23,7 @@
    -  Remove Picture Section, make jumbotron style header instead.
    -  Make item more visible.
    -  Replace with better pictures.
-   -  Optimize for phones
+   -  Optimize for phones`
 
 Production Goals ---------------------------------------------------------| Production
 
