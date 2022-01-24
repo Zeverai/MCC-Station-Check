@@ -8,9 +8,9 @@
 
 ---
 
-> Test Build Goals --------------------------------------------------------| Test
+> Development Goals
 
-`- Optimize for phone usage
+-  Optimize for phone usage
 
 -  Tablet is slow/old
 -  all operators have a mobil phone
@@ -23,9 +23,9 @@
    -  Remove Picture Section, make jumbotron style header instead.
    -  Make item more visible.
    -  Replace with better pictures.
-   -  Optimize for phones`
+   -  Optimize for phones
 
-Production Goals ---------------------------------------------------------| Production
+Production Goals
 
 -  Interface with current logged in NCC operator
 -
