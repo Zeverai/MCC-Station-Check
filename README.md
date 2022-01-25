@@ -4,17 +4,16 @@
 
 ---
 
-> Version: 2.0
+## Version: 2.0
 
 ---
 
-> Development Goals
+## Development Goals
 
 -  Optimize for phone usage
-
--  Tablet is slow/old
--  all operators have a mobil phone
--  easier to use on small screen and input data much faster with thumb
+   -  Tablet is slow/old
+   -  all operators have a mobil phone
+   -  easier to use on small screen and input data much faster with thumb
 -  SPA Application - React
    -  Greatly reduce load times
    -  Condense Tedious Menus
