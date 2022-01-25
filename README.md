@@ -1,6 +1,4 @@
-# Microspace Communications Corporation
-
-### Station Checks 2.0
+# Station Checks
 
 ### Version: 2.0
 
