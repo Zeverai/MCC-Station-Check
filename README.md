@@ -27,4 +27,5 @@
 ## Production Goals
 
 -  Interface with current logged in NCC operator
+-  Update atlas with an option to post a log from each check.
 -
