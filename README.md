@@ -5,8 +5,8 @@
 ## Development Goals
 
 -  Optimize for phone usage
-   -  Tablet is slow/old
-   -  all operators have a mobil phone
+   -  current MCC tablet is slow/old
+   -  all operators have a mobile phone
    -  easier to use on small screen and input data much faster with thumb
 -  SPA
    -  Greatly reduce load times
